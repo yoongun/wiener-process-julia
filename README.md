@@ -1,4 +1,4 @@
-# Weiner process 3D simulation in julia
+# Wiener process 3D simulation in julia
 
 ## Reference
 
